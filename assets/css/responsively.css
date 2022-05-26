@@ -1,5 +1,9 @@
 /* Telefones em paisagem e abaixo */
 @media (max-width: 480px) {
+    body{
+        justify-content: center;
+    }
+    
     img {
     max-width: 400px;
    }
