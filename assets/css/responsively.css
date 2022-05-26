@@ -2,6 +2,7 @@
 @media (max-width: 480px) {
     body{
         justify-content: center;
+        text-align: center;
     }
     
     img {
