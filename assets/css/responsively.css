@@ -1,10 +1,10 @@
 /* Telefones em paisagem e abaixo */
 @media (max-width: 480px) {
    body{
-    max-width: 500px;
+    max-width: 235px;
    }
    .footer {
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     
 }
 }
