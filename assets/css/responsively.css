@@ -6,7 +6,7 @@
     }
     
     img {
-    max-width: 400px;
+    max-width: 350px;
    }
    .footer {
     padding-bottom: 80px;
@@ -15,15 +15,17 @@
 }
 /* Telefones em paisagem a tablet em retrato */
 @media (max-width: 767px) {
-    /* estilos aqui */
+    body{
+        justify-content: center;
+        text-align: center;
+    }
 }
+
 
 /* Tablet em retrato a paisagem e desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-    /* estilos aqui */
-}
-
-/* Desktop grande */
-@media (min-width: 1200px) {
-    /* estilos aqui */
+    body{
+        justify-content: center;
+        text-align: center;
+    }
 }
